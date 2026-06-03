@@ -1,1 +1,5 @@
+document.querySelector(".join-form").addEventListener("submit", function(e){
+    e.preventDefault();
 
+    alert("Welcome to RL Arena! Registration system coming soon.");
+});
